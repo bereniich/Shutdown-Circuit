@@ -1,0 +1,12 @@
+# backups
+*.zip
+ShutdownCircuit-backups/
+
+# KiCad temp fajlovi
+*.kicad_prl
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+
+# OS
+.DS_Store
